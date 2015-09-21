@@ -1,0 +1,17 @@
+# Site settings
+title: SupirTaxi
+email: alfa@supirtaxi.com
+url: https://supirtaxi.com
+description: "Temukan supir favorit untuk memandu perjalanan panjang anda."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Your Website
+
+# Build settings
+markdown: kramdown
+permalink: pretty
